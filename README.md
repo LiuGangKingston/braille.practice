@@ -3,16 +3,23 @@ Practice of basic Braille both in English and Chinese
 中英文基础盲文练习
 
 braille.practices.02.f90 is the source code in FORTRAN 90. 
+
 a.exe is the executable of Window's system.
 可以直接下载 a.exe，在 Window's 个人微机执行使用。
 
 When executed, you will be asked 
 （执行后，你可以选择如下十一种方式之一练习）
+
      PLEASE CHOOSE ONE OF THE FOLLOWING PRACTICE TYPES:
+     
      0:  All base braills checkup only;
+     
      1:  0, 1, 2, till 9 numbers only;
+     
      2:  English 26 Letters only;
+     
      3:  English Punctuations only (to be enabled);
+     
      4:  Chinese Shengmu only;
      5:  Chinese Yunmu only;
      6:  Chinese Shengdiao;
