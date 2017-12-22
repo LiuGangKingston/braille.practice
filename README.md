@@ -46,6 +46,8 @@ In many situations, if you type "Q" then "RETURN" key, it will stops.
 
 （很多时候，当你打入字母 Q 然后回车，练习就结束了。
 
+使用FORTRAN语言处理中文有些困难。虽然有更好办法，我还是为了程序的移植性采用了简单但是不美观的办法。比如 拼音上边带两个点的u使用uu来代替。声调：一声（阴平），二声（阳平），三声（上声）及其四声（去声）又分别表达为 yinp，yangp，shang 和 qushg。
+
 
 
                                                   冬至 Dec. 22, 2017
